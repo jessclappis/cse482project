@@ -1,0 +1,45 @@
+.body-content{
+  width: 70%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.error{
+  color: red;
+}
+
+.message{
+  color: green;
+}
+
+ul#main-menu{
+  padding-left: 0;
+}
+
+ul#main-menu li{
+  display: inline;
+}
+
+#movie-name{
+  width: 80%;
+  padding: 5px;
+}
+
+table{
+  border-collapse: collapse;
+}
+table, tr, td, th{
+  border: 1px solid grey;
+}
+td, th{
+  padding: 2px;
+}
+
+#ratemovie-submit, #ratemovie-select{
+  width: 100%;
+}
+
+/* .home-main{
+  border: 1px solid black;
+  padding: 5px;
+} */
